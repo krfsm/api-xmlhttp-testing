@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+
+div {
+    padding: 5px;
+}
+
+#allstorefronts {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+
+div.success {
+    color: white;
+    background-color: lime;
+}
+
+div.failure {
+    color: white;
+    background-color: red;
+}

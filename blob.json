@@ -1,0 +1,323 @@
+[{
+    "customer": "1",
+    "storefronts": [
+        {
+            "storefrontName": "1-apa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,es_ES,es_MX,es_PE,fi_FI,md_MD,ro_MD,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "1apa1"
+            },
+            {
+                "locales": "en_GB,en_US,es_ES,es_MX,es_PE,fi_FI,md_MD,ro_MD,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "1apa2"
+            }]
+        },
+        {
+            "storefrontName": "2-apa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_MX,es_PE,ka_GE,md_MD,ro_MD,pl_PL,ro_RO,sv_SE",
+                "APIEndpoint": "2apa1"
+            },
+            {
+                "locales": "en_GB,en_US,en_ZA,es_MX,es_PE,ka_GE,md_MD,ro_MD,pl_PL,ro_RO,sv_SE",
+                "APIEndpoint": "2apa2"
+            },
+            {
+                "locales": "en_GB,en_US,en_ZA,es_MX,es_PE,ka_GE,md_MD,ro_MD,pl_PL,ro_RO,sv_SE",
+                "APIEndpoint": "2apa3"
+            }]
+        },
+        {
+            "storefrontName": "3-apa",
+            "endpoints": [{
+                "locales": "en_US,es_MX",
+                "APIEndpoint": "3apa1"
+            }]
+        }
+    ],
+    "markets": [
+        "GB",
+        "US",
+        "ZA",
+        "ES",
+        "MX",
+        "FI",
+        "GE",
+        "PL",
+        "RO",
+        "RU",
+        "ZZ"
+    ]
+},
+{
+    "customer": "2",
+    "storefronts": [
+        {
+            "storefrontName": "1-bepa",
+            "endpoints": [{
+                "locales": "en_GB,es_ES,fi_FI,fr_FR,lv_LV,md_MD,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "1bepa"
+            }]
+        },
+        {
+            "storefrontName": "2-bepa",
+            "endpoints": [{
+                "locales": "en_GB,es_ES,es_MX,es_PE,fi_FI,ka_GE,md_MD,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "2bepa"
+            }]
+        },
+        {
+            "storefrontName": "3-bepa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_ES,ka_GE,md_MD,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "3bepa"
+            }]
+        },
+        {
+            "storefrontName": "4-bepa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_ES,es_MX,es_PE,fi_FI,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "4bepa"
+            }]
+        },
+        {
+            "storefrontName": "5-bepa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_ES,es_MX,es_PE,fi_FI,ka_GE,md_MD,ro_MD",
+                "APIEndpoint": "5bepa"
+            }]
+        }
+    ],
+    "markets": [
+        "GB",
+        "US",
+        "ZA",
+        "ES",
+        "MX",
+        "PE",
+        "FI",
+        "FR",
+        "LV",
+        "MD",
+        "PL",
+        "RO",
+        "SE",
+        "ZZ"
+    ]
+},
+{
+    "customer": "3",
+    "storefronts": [
+        {
+            "storefrontName": "1-depa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_ES,es_MX,es_PE,fi_FI,ka_GE,md_MD,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "1depa"
+            }]
+        },
+        {
+            "storefrontName": "2-depa",
+            "endpoints": [{
+                "locales": "en_GB,fi_FI,md_MD,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "2depa"
+            }]
+        }
+    ],
+    "markets": [
+        "GB",
+        "US",
+        "ZA",
+        "ES",
+        "MX",
+        "PE",
+        "FI",
+        "GE",
+        "MD",
+        "PL",
+        "RO",
+        "RU",
+        "SE",
+        "ZZ"
+    ]
+},
+{
+    "customer": "4",
+    "storefronts": [
+        {
+            "storefrontName": "1-epa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_ES,es_MX,es_PE,fi_FI,ka_GE,md_MD,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "1epa"
+            }]
+        },
+        {
+            "storefrontName": "2-epa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_ES,es_MX,es_PE,md_MD,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "2epa"
+            }]
+        },
+        {
+            "storefrontName": "3-epa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_ES,es_MX,es_PE,fi_FI,ka_GE,ro_MD,ro_RO,sv_SE",
+                "APIEndpoint": "3epa"
+            }]
+        },
+        {
+            "storefrontName": "4-epa",
+            "endpoints": [{
+                "locales": "en_GB,es_MX,es_PE,fi_FI,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "4epa"
+            }]
+        }
+    ],
+    "markets": [
+        "GB",
+        "US",
+        "ZA",
+        "ES",
+        "MX",
+        "PE",
+        "FI",
+        "GE",
+        "MD",
+        "PL",
+        "RO",
+        "RU",
+        "SE",
+        "ZZ"
+    ]
+},
+{
+    "customer": "5",
+    "storefronts": [
+        {
+            "storefrontName": "1-fepa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_ES,es_MX,es_PE,fi_FI,ka_GE,md_MD,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "1fepa"
+            }]
+        },
+        {
+            "storefrontName": "2-fepa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_ES,es_MX,es_PE,fi_FI,ka_GE,md_MD,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "2fepa"
+            }]
+        },
+        {
+            "storefrontName": "3-fepa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_ES,es_MX,es_PE,fi_FI,ka_GE,md_MD,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "3fepa"
+            }]
+        }
+    ],
+    "markets": [
+        "GB",
+        "US",
+        "ZA",
+        "ES",
+        "MX",
+        "PE",
+        "FI",
+        "GE",
+        "MD",
+        "PL",
+        "RO",
+        "SE",
+        "ZZ"
+    ]
+},
+{
+    "customer": "6",
+    "storefronts": [
+        {
+            "storefrontName": "1-gepa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_ES,es_MX,es_PE,fi_FI,ka_GE,md_MD,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "1gepa"
+            }]
+        },
+        {
+            "storefrontName": "2-gepa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_ES,es_MX,es_PE,fi_FI,ka_GE,md_MD,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "2gepa"
+            }]
+        },
+        {
+            "storefrontName": "3-gepa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_ES,es_MX,es_PE,fi_FI,ka_GE,md_MD,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "3gepa"
+            }]
+        },
+        {
+            "storefrontName": "4-gepa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_ES,es_MX,es_PE,fi_FI,ka_GE,md_MD,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "4gepa"
+            }]
+        }
+    ],
+    "markets": [
+        "GB",
+        "US",
+        "ZA",
+        "ES",
+        "MX",
+        "PE",
+        "FI",
+        "GE",
+        "MD",
+        "PL",
+        "RO",
+        "RU",
+        "SE",
+        "ZZ"
+    ]
+},
+{
+    "customer": "7",
+    "storefronts": [
+        {
+            "storefrontName": "1-hepa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_ES,es_MX,es_PE,fi_FI,ka_GE,md_MD,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "1hepa"
+            }]
+        },
+        {
+            "storefrontName": "2-hepa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_ES,es_MX,es_PE,fi_FI,ka_GE,md_MD,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "2hepa"
+            }]
+        },
+        {
+            "storefrontName": "3-hepa",
+            "endpoints": [{
+                "locales": "en_GB,en_US,en_ZA,es_ES,es_MX,es_PE,fi_FI,ka_GE,md_MD,ro_MD,pl_PL,ro_RO,ru_RU,sv_SE",
+                "APIEndpoint": "3hepa"
+            }]
+        }
+    ],
+    "markets": [
+        "GB",
+        "US",
+        "ZA",
+        "ES",
+        "MX",
+        "PE",
+        "FI",
+        "GE",
+        "MD",
+        "PL",
+        "RO",
+        "RU",
+        "SE",
+        "ZZ"
+    ]
+}]
