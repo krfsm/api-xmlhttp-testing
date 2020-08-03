@@ -16,6 +16,13 @@ This is a thing I wrote to figure out how to test a thing at work. It consists o
     * `"market": "market code"`
 * `script.js`, handles the `XMLHttpRequest`:ing of `blob.json`, parsing the list, getting a random locale and associated market, and should make an `XMLHttpRequest` POST request to the `login.json` endpoint for each storefront. If it's a success (status 200), it will parse the JSON it gets back and set the status of the associated `div` to `success`. If it's an error/failure, it should set the status of the associated `div` to `failure`.
 
+## How to run it
+
+* Make sure you have python3 installed.
+* In the directory, run `python main.py` (or `python3` if your `python` command points to Python 2.whatever)
+* Load `http://localhost:8080/api-testing.html` in your web browser of choice.
+* Click the clicky button!
+
 ## TODO
 
 Make sure the `script.js` actually makes an `XMLHttpRequest` for each endpoint, and that it actually sets the status of right `div`s.
